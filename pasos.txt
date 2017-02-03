@@ -5,3 +5,6 @@ uname -r //Consultar Kernel
 uname -a
 Johana Salmeron
 johana-salmeron1@hotmail.com
+uname -a
+Johana Salmeron
+johana-salmeron1@hotmail.com
