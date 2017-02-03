@@ -1,3 +1,7 @@
 lsb_release -a
 uname -r //Consultar Kernel
 
+
+uname -a
+Johana Salmeron
+johana-salmeron1@hotmail.com
